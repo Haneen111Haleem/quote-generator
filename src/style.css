@@ -1,0 +1,6 @@
+.share-buttons {
+  margin: auto;
+  color: blue;
+  display: inline-flex;
+  gap: 9px;
+}
